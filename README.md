@@ -23,6 +23,10 @@ The repository is organized into individual folders for each program. Each folde
 4. **LargestOfThreeNumbers**
    - **File:** `LargestOfThreeNumbers.java`
    - **Description:** A program that finds and prints the largest of three given numbers.
+  
+5. **PrimeNumberChecker**
+   - **File:** `PrimeNumberChecker.java`
+   - **Description:** A program to check whether a given number is a prime number.
 
 ### Folder Structure
 
