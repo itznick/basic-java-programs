@@ -27,6 +27,10 @@ The repository is organized into individual folders for each program. Each folde
 5. **PrimeNumberChecker**
    - **File:** `PrimeNumberChecker.java`
    - **Description:** A program to check whether a given number is a prime number.
+  
+6. **Factorial**
+   - **File:** `Factorial.java`
+   - **Description:** A program to calculate the factorial of a given number.
 
 ### Folder Structure
 
