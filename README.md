@@ -32,6 +32,11 @@ The repository is organized into individual folders for each program. Each folde
    - **File:** `Factorial.java`
    - **Description:** A program to calculate the factorial of a given number.
 
+7. **FibonacciSeries**
+   - **File:** `FibonacciSeries.java`
+   - **Description:** A program to generate the Fibonacci series up to a specified number of terms. The Fibonacci sequence is a series of numbers where each number is the sum of the two preceding ones, starting from 0 and 1.
+
+
 ### Folder Structure
 
 Each program is contained within its own folder. Inside each folder, you'll find:
