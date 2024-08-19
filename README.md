@@ -36,6 +36,9 @@ The repository is organized into individual folders for each program. Each folde
    - **File:** `FibonacciSeries.java`
    - **Description:** A program to generate the Fibonacci series up to a specified number of terms. The Fibonacci sequence is a series of numbers where each number is the sum of the two preceding ones, starting from 0 and 1.
 
+8. **ReverseNumber**
+   - **File:** `ReverseNumber.java`
+   - **Description:** A program to reverse the digits of a given number. For example, if the input is 1234, the output will be 4321.
 
 ### Folder Structure
 
